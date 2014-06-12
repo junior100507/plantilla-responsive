@@ -1,4 +1,3 @@
 plantilla-responsive
 ====================
-
-hola
+mi plantilla
